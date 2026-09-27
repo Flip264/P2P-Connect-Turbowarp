@@ -2,6 +2,10 @@
 
 # **P2P Connect Extension**
 
+<img width="1253" height="663" alt="image" src="https://github.com/user-attachments/assets/874de8e3-3d23-4121-92fa-786e92ecab8e" />
+
+
+
 P2P Connect is a custom TurboWarp extension that connects two running projects using a WebRTC data channel. Two computers exchange connection codes manually, then projects can send text messages between their computers.
 
 ## **How To Use**
